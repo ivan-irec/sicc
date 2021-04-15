@@ -91,9 +91,9 @@
      <table class="table table-bordered">
         <thead>
           <tr>
-            <th>Folio</th>
             <th>Nombre</th>
             <th>Puesto</th>
+            <th>Área</th>
             <th>Acción</th>
             
           </tr>
